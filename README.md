@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Maxim%20Loguncov&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Fullstack%20Developer%20%7C%20Open%20Source%20Enthusiast&descAlignY=55&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Maxim%20Loguncov&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=C%2B%2B%20%7C%20Python%20%7C%20Game%20Dev%20%7C%20Telegram%20Bots&descAlignY=55&descSize=18"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=60&lines=Building+products+that+matter+%F0%9F%9A%80;TypeScript+%7C+React+%7C+Node.js+%7C+Python;Always+open+for+collaboration+%F0%9F%A4%9D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=60&lines=Системное+программирование+на+C%2B%2B;AI-боты+на+Python+%2B+GPT;AR+в+браузере%2C+Arduino%2C+GameDev)](https://git.io/typing-svg)
 
 </div>
 
@@ -14,9 +14,13 @@
 
 ## Кто я
 
-Fullstack-разработчик с фокусом на **TypeScript** и **React**-экосистеме. Пишу чистый, поддерживаемый код, думаю о продукте, а не только о задаче.
+Разработчик с широким кругом интересов: от **системного C++** до **AI-интеграций** и **геймдева**.
 
-Умею брать проект от идеи до продакшена — от архитектуры базы данных до деплоя в Docker.
+- Пишу поисковые движки, парсеры и автоматизацию на **C++**
+- Создаю умных **Telegram-ботов** с GPT на **Python**
+- Разрабатываю **AR-приложения** в браузере (QR → 3D-модели без установки)
+- Делаю игры на **C# (Unity)** и изучаю **Unreal Engine 5**
+- Автоматизирую железо через **Arduino**
 
 ---
 
@@ -24,23 +28,45 @@ Fullstack-разработчик с фокусом на **TypeScript** и **Reac
 
 <div align="center">
 
-### Frontend
-![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+### Системное / Embedded
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+### AI / Автоматизация
 ![Python](https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_GPT-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram_Bot_API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
 
-### Инфраструктура
-![Docker](https://img.shields.io/badge/Docker-2496ed?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+### Web / AR
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Game Dev
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine_5-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
+
+### Инструменты
 ![Git](https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
+
+---
+
+## Проекты
+
+| Проект | Описание | Стек |
+|--------|----------|------|
+| [**Searchify**](https://github.com/loguncov/Searchify) | Собственный поисковый движок: скрапинг, индексация, обработка запросов | C++ |
+| [**AR_Myrom**](https://github.com/loguncov/AR_Myrom) | AR в браузере — QR-код → 3D-модель без приложения | HTML, JS, WebXR |
+| [**TeleCommentator**](https://github.com/loguncov/TeleCommentator) | Бот-комментатор для Telegram-каналов на базе GPT-3.5 | Python, OpenAI |
+| [**PCAutomation**](https://github.com/loguncov/PCAutomation) | Автоматизация настройки компьютера через Arduino | C++, Arduino |
+| [**INI-file-parser**](https://github.com/loguncov/INI-file-parser) | Лёгкий парсер INI-файлов | C++ |
+| [**Ballon**](https://github.com/loguncov/Ballon) | Игра: воздушный шар, боящийся птиц | C#, Unity |
+| [**DatyToBot**](https://github.com/loguncov/DatyToBot) | Telegram-бот для знакомств | Python |
+| [**telegram_salon_mvp**](https://github.com/loguncov/telegram_salon_mvp) | MVP Telegram-бота для салона красоты | HTML, Python |
 
 ---
 
@@ -68,18 +94,6 @@ Fullstack-разработчик с фокусом на **TypeScript** и **Reac
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=loguncov&theme=tokyo-night&hide_border=true&area=true)
 
 </div>
-
----
-
-## Что предлагаю
-
-```
-✅  Fullstack-разработка под ключ — от MVP до масштабируемого продукта
-✅  Code review и архитектурные консультации
-✅  Интеграция сторонних API и сервисов
-✅  Оптимизация производительности фронтенда и бэкенда
-✅  Open source вклад — добро пожаловать с любыми идеями
-```
 
 ---
 
