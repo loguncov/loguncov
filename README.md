@@ -5,7 +5,6 @@
 ### Разрабатываю прикладные проекты — от поисковых движков и embedded-систем до AI-интеграций, AR и игр
 
 [![GitHub](https://img.shields.io/badge/GitHub-loguncov-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/loguncov)
-![Profile Views](https://komarev.com/ghpvc/?username=loguncov&color=a78bfa&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
 
@@ -131,12 +130,12 @@
 
 ---
 
-## GitHub-статистика
+## GitHub
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=loguncov&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loguncov&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+[![GitHub](https://img.shields.io/badge/Профиль-loguncov-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/loguncov)
+![Profile Views](https://komarev.com/ghpvc/?username=loguncov&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
